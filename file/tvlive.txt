@@ -1,4 +1,4 @@
-﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
 
@@ -126,6 +126,42 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 
 
 
+
+
+CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
+CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+
+
+
+CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
+
+CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
+CHC高清电影,http://49.235.110.121:9090/daili/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
+CHC动作电影,http://49.235.110.121:9090/daili/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
+CHC家庭影院,http://49.235.110.121:9090/daili/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
+
+
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8$移动
+CCTV1,https://tvphp1.rbq.plus/jd1.php?id=cctv1$JDY
+CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+CCTV1,https://epg.pw/stream/2ea8d809efa19eaa31a24e7b4b99531c817d168b06629571c42e12f98f592d90.m3u8
+cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV6,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+
+
+
 河北,#genre#
 
 河北卫视,http://152.70.36.39:8080/jishi/weishipindao.m3u8
@@ -245,6 +281,35 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+
+
+
+
+黑龙江卫视,http://49.235.110.121:9090/daili/小果.php?id=hljwsH265_4000&Cf.m3u8
+吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
+
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
+
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
+
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=
+
+广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
+
+云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
+
+重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
+
+西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/350/index.m3u8?&encrypt=
+
+新疆卫视,http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/index.m3u8?&encrypt=
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
+宁夏卫视,http://183.66.196.98:9901/tsfile/live/0112_1.m3u8
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=
+内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
 
 
 
@@ -464,109 +529,10 @@ BESTV华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 
 
 
-
-
-
-
-
-
 HBO原創2,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 
 
-ihot,#genre#
-
-ihot爱电竞,https://epg.pw/stream/3c11374bd167039caf68b2e9d19905cbfc9b2f3f2c682cac4e0c451bc106da2c.m3u8
-
-ihot爱谍战,https://epg.pw/stream/cd18ecf1f2cc979a7f731c7f05bb35db9699a32529e39c4ace0cd7ae86b29c36.m3u8
-
-ihot爱动漫,https://epg.pw/stream/30280c5d9cd6fa30f2926088d55e868df82fe88f786407c00716f02258cf6170.m3u8
-
-ihot爱动漫@@1,https://epg.pw/stream/3e55d5a8cce1925f719bab1e922e63069f0d3dca4bd26d866ea7147614bfc185.m3u8
-
-ihot爱都市,https://epg.pw/stream/67521f075b10fa5c1117724b307cd09d67380aee5f058318a62c60e2ca308eb9.m3u8
-
-ihot爱怀旧,https://epg.pw/stream/30aaea52be50fda5a0c2e2ca1d1c96ea5848d502120a18753ee435a719c08c45.m3u8
-
-ihot爱怀旧@@1,https://epg.pw/stream/b42354a11e25f854ca7a501ed35f91a7fba533cf67bf73c3b36e836299baa4fa.m3u8
-
-ihot爱极限,https://epg.pw/stream/9a314e3057be59caf7195cc5707d8621916b1f7402f071799f48f7672cf4d342.m3u8
-
-ihot爱极限@@1,https://epg.pw/stream/b88bd2295a262a4d8a36c70d21e888468bc43c8e88acdbcd98f6000321dafff1.m3u8
-
-ihot爱家庭,https://epg.pw/stream/8234f31013638b1f84a2e5bcdd9e6bb3b17873e711ef51cb6a760eba16297e1b.m3u8
-
-ihot爱家庭@@1,https://epg.pw/stream/0b77f19987f5bd89b1c7ba1affed1fea6a6102ab91ac4b5320a49c75fe8f576b.m3u8
-
-ihot爱江湖,https://epg.pw/stream/dc1cc4d7620b669c1c3f7fcd95e48da27f0efef54fe10e46cbae61d29bec21e2.m3u8
-
-ihot爱解密@@1,https://epg.pw/stream/941caf7d35f17bcba8ed3e3a2134d0936a2e6e511f347000b1aa7f7429ba9366.m3u8
-
-ihot爱经典,https://epg.pw/stream/12008cd4007bb786af80db482c2a8b70ba6225cbbb71c2e02908ca92086f75d3.m3u8
-
-ihot爱经典@@1,https://epg.pw/stream/65e0c32601a20f66ace70d832333891bd6eaef27731fbbb6083ffeb65f9b9266.m3u8
-
-ihot爱科幻,https://epg.pw/stream/4495d6fcdcc4183e98739f1d5920c7b10c2e85cd0e8f49bfa5a10ee464d9d788.m3u8
-
-ihot爱科幻@@1,https://epg.pw/stream/f5821a2d6f88dc0b4682a3de91f4c0ecb6b6c9946a745c4b111a4f49c9ae4cf7.m3u8
-
-ihot爱科学,https://epg.pw/stream/f039956de1b5cf76aad3e32959f9a217fc7123996323c7db9d31c8174dd35e1e.m3u8
-
-ihot爱科学@@1,https://epg.pw/stream/7e852387f42b055ec8ddd23f8b833fb829f7904b2779e36b0a14757efa805611.m3u8
-
-ihot爱浪漫@@1,https://epg.pw/stream/e5ece177d67aadf0d8688464d74108d95c9b9c7c59e3b94938609efb9ea226b7.m3u8
-
-ihot爱历史,https://epg.pw/stream/8f6ddd43e3a2178ad715710ba60a7d828d2a099b063717e2f264e55626595bdc.m3u8
-
-ihot爱历史@@1,https://epg.pw/stream/c61e3568edc5498fa17451dfd7a0499f40fc84d0b40df6642e610ab0c33a485a.m3u8
-
-ihot爱猎奇,https://epg.pw/stream/fac38d5952ed464a57003136761175801efafb036cd675e6f141b5b4b4d52e64.m3u8
-
-ihot爱猎奇@@1,https://epg.pw/stream/1b167a9c4ef22bafa8e76d6698faf1c01498afa0aa9686de543ba6ae8f713218.m3u8
-
-ihot爱旅行,https://epg.pw/stream/d3cf217489248b835e2e322ae6e77fedc44ef0c013942aca7e61c2e2dacf5451.m3u8
-
-ihot爱美食@@1,https://epg.pw/stream/82c664afe3f1c5755bb80aed466342c2fdab09ba67d0d30d4a30777398a0bac9.m3u8
-
-ihot爱奇谈,https://epg.pw/stream/6479ee812ec4d563aee266431973947551e040d35b72b93ea33728df714d25a1.m3u8
-
-ihot爱奇谈@@1,https://epg.pw/stream/4103282a9aa7e890b6b35f4951b0af54e875976726521e58cc8c3e3ce524f002.m3u8
-
-ihot爱青春,https://epg.pw/stream/4f27d2c7f4c0b1b980ceb4c355356a66a60b5d27fd7755fbd859868f71899958.m3u8
-
-ihot爱赛车@@1,https://epg.pw/stream/44796d0c6bce0621da15e1a1e0c87b8ef06693685f11b4fe678957434e9c073a.m3u8
-
-ihot爱时尚,https://epg.pw/stream/fece0bc21bdee4174d74f60e97e3390f321abf16a60f43a14cb07325c2f5bf75.m3u8
-
-ihot爱时尚@@1,https://epg.pw/stream/aa2009a03078e5496e65ab8d315335cb06d368633b46a3e7bba142b036110b95.m3u8
-
-ihot爱世界,https://epg.pw/stream/1bae9b5aa7cbaffc680bf6df1d7067c5b3949ea3606a070507a83666751f3850.m3u8
-
-ihot爱世界@@1,https://epg.pw/stream/89b5607375bb6262b4cfe8b78a0f4ec510a89ef1972ef91a51b4c1069f06e941.m3u8
-
-ihot爱探索,https://epg.pw/stream/f709d4a6ad1da0fde66fb4327d8b362ffdd9b410ac8b1a477c6529109f79f3d5.m3u8
-
-ihot爱探索@@1,https://epg.pw/stream/9065992f065ae6c8d2ab59759de697bff3e99e335fe2ff6cb801ebbb637c2400.m3u8
-
-ihot爱体育,https://epg.pw/stream/c48b96e6d9a0893c530163eab32a3252af3a584ff31ae4df0c04ca278f056e8a.m3u8
-
-ihot爱体育@@1,https://epg.pw/stream/b2fed72eb93eb647f858b19d3cc8911b0a23bd0abbcd5f53575b5159bb034676.m3u8
-
-ihot爱玩具,https://epg.pw/stream/df1d09328a528feab390d24686d2d47a1c13208fd308192a795ce9fc26454f55.m3u8
-
-ihot爱喜剧,https://epg.pw/stream/080fe7a4a0de64d8b7174cffbfa2fde1ab9ac4b1865f102686cc3aee859e0de8.m3u8
-
-ihot爱喜剧@@1,https://epg.pw/stream/104c1a48836e06bc50d733c6485d4cb2b9871937b10135f7a3e83dbe5e12f66e.m3u8
-
-ihot爱悬疑,https://epg.pw/stream/2777ded8a7ca4f55cdaeddee0c4ed46342070e837da8848cbe6577a73de64813.m3u8
-
-ihot爱悬疑@@1,https://epg.pw/stream/ca2a76ba81f2546202cf586608734563809e8b3998f96eeaf80fb4f81c368b4b.m3u8
-
-ihot爱幼教@@1,https://epg.pw/stream/8417d1c31ceb0dc1f304e93a67168c5e2f90083fd2be9107a98de5d46bea5a73.m3u8
-
-ihot爱娱乐@@1,https://epg.pw/stream/ddc0e221f10f12259572a5faace7730449c222a872fb0d438e0545c30e0f2c79.m3u8
-
-ihot爱院线@@1,https://epg.pw/stream/4f97a468d2408cd4a659bacde222e0f3b559921a0767aeddec8c1a1c9a7ef44b.m3u8
 
 
 测试,#genre#
@@ -574,3 +540,7 @@ ihot爱院线@@1,https://epg.pw/stream/4f97a468d2408cd4a659bacde222e0f3b559921a0
 ytb测试,http://152.70.36.39:8080/ytb.m3u8?url=jfKfPfyJRdk
 proxy测试,http://152.70.36.39:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 jishi测试,http://152.70.36.39:8080/jishi/weishipindao.m3u8
+
+测试2,#genre#
+guanwang,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS
+iptv345,http://152.70.36.39:8080/proxy.m3u8?url=https://p.ggiptv.com/v/ysp.m3u8?token=wBgXXoVsBQZ1uqY2zSdW%2Fq1i&id=cctv2
