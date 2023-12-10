@@ -94,10 +94,21 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1
 
 地方,#genre#
 
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=$咪咕
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=$咪咕
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=$咪咕
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=$咪咕
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=$咪咕
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=$咪咕
+广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=$咪咕
+云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=$咪咕
+重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=$咪咕
+西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/350/index.m3u8?&encrypt=$咪咕
+新疆卫视,http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/index.m3u8?&encrypt=$咪咕
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=$咪咕
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=$咪咕
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-
 
 
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -108,7 +119,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1
 
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 
-河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 
@@ -131,28 +141,10 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1
 
 黑龙江卫视,http://49.235.110.121:9090/daili/小果.php?id=hljwsH265_4000&Cf.m3u8
 吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
 
-江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
-
-江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-
-湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=
-
-广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
-
-云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
-
-重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
-
-西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/350/index.m3u8?&encrypt=
-
-新疆卫视,http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/index.m3u8?&encrypt=
-甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
 宁夏卫视,http://183.66.196.98:9901/tsfile/live/0112_1.m3u8
-陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=
+
 内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u81
@@ -189,7 +181,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1
 浙江卫视,http://cfss.cc/api/ysp/zjws.m3u8
 江苏卫视,http://cfss.cc/api/ysp/jsws.m3u8
 安徽卫视,http://cfss.cc/api/ysp/ahws.m3u8
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=
+
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
