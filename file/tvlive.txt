@@ -1,38 +1,48 @@
-﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
-CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=$咪咕
-CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=$咪咕
-CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=$咪咕
-CCTV4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=$咪咕
-CCTV4欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=$咪咕
-CCTV5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=$咪咕
-CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=$咪咕
-CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=$咪咕
-CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=$咪咕
-CCTV9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=$咪咕
-CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=$咪咕
-CCTV11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=$咪咕
-CCTV12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?&encrypt=$咪咕
-CCTV13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=$咪咕
-CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?&encrypt=$咪咕
-CCTV15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=$咪咕
-CCTV17,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=$咪咕
 
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8$移动
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$移动
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$移动
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$移动
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8$移动
-CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$移动
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$移动
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$移动
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$移动
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$移动
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$移动
-
+CCTV1综合高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=75f6af133831f791af7e904b4ff4b64f&tid=ys&id=1
+CCTV2财经高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=36cce39053b15a7c2806f27a3a0914c0&tid=ys&id=2
+CCTV3综艺高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e864adf8e56155382761c3787bfaec6a&tid=ys&id=3
+CCTV4中文国际高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a56d78a7187c5caf56c371e6ff9b3d1d&tid=ys&id=4
+CCTV5体育高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=030d845f8f8e417ec63bd6ada7f9512f&tid=ys&id=5
+CCTV5+体育赛事高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a2a642312539d92758932e0b7f0ce02f&tid=ys&id=6
+CCTV6电影高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=000e771fd471d51f78668ac91da54bc2&tid=ys&id=7
+CCTV7国防军事高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2c870d6a132f8504f1be985a910cdbdb&tid=ys&id=8
+CCTV8电视剧高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=061363379cc987c5fd38e4f7e5f60693&tid=ys&id=9
+CCTV9纪录高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a4e0ca2f7a9cf882b26e8f140a2ad757&tid=ys&id=10
+CCTV10科教高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=833328b0baabb651fb75045b5b7e4c5e&tid=ys&id=11
+CCTV11戏曲高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e5517e712f36d58bec290582a2e6a123&tid=ys&id=12
+CCTV12社会与法高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=d18e9f1260e9e6519b4cccfb827f0769&tid=ys&id=13
+CCTV13新闻高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=41e61aa8dadcc76bcde74b61218f0b1e&tid=ys&id=14
+CCTV14少儿高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=168dbc84cde1c24946ee56117611b252&tid=ys&id=15
+CCTV15音乐高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=b8e0d6b84db6e1c5f4deadcfdd41b8de&tid=ys&id=16
+CCTV16奥林匹克 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2cc66ecadf91d3548b2dbdacffa6461e&tid=ys&id=17
+CCTV17农业农村高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a5c8851972e8f5c28d141cefa38cd194&tid=ys&id=18
+CCTV4k高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=4aad395ef5e707a9b90b0742a5b96dca&tid=ys&id=19
+CCTV4欧洲HD , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ef113cf571538ecd14c251a015c106fc&tid=ys&id=20
+CCTV4美洲HD , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=bd5996dfbc2df618f09e625c084f3868&tid=ys&id=21
+CGTN , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=24c6c7b09cfd6c938d78b3b8cea7ad6e&tid=ys&id=23
+CGTN纪录 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ff585e9356bf39194674a9eb47ff8aab&tid=ys&id=24
+CCTV阿拉伯语 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=09c22d6e8aa185ff9427c0cc5ceac9da&tid=ys&id=25
+CCTV法语 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=3e5725cfedf2ae9965887afc57df1ece&tid=ys&id=26
+CCTV西班牙语 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=6a272e61fb2a63330804162f3b45290c&tid=ys&id=27
+CCTV俄语 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=643a38c3df3ab1a7f1227afcfc6524ba&tid=ys&id=28
+CETV-1高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=891540910db93bafe79cb0972bc55193&tid=ys&id=29
+CETV-2 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=c424556e78725401ffc19348b4cb0bf3&tid=ys&id=30
+CETV-3 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=1a7b69492347a12bd011530b5e48fad3&tid=ys&id=31
+CETV-4 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ed47ca2b376a97c78e2e02fcd6495e9a&tid=ys&id=32
+CCTV兵器科技 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=409b31c8135302f19e546884fad026b6&tid=ys&id=33
+CCTV怀旧剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=25c26319591b1ec12f108038fb66a96d&tid=ys&id=34
+CCTV第一剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=dbb8418dc183313077099d98677222bf&tid=ys&id=35
+CCTV风云剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=7003492abf4d2d4db5afe0975e90d30a&tid=ys&id=36
+CCTV风云音乐 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=724206feb8432bf9fbfc1763b386d038&tid=ys&id=37
+CCTV风云足球 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e698afe687d53bbed3aca8b38b9e08b6&tid=ys&id=38
+CCTV世界地理 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a5ded1cae69031f34f1779788c54cfcc&tid=ys&id=39
+CCTV文化精品 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=25cf172b5e4fcee88c0d1e4dee8c0ced&tid=ys&id=40
+CCTV央视台球 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=bb1dd310cabc762d2caffd1e6a1b1e7c&tid=ys&id=41
+CCTV高尔夫网球 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2c1f82fb4c7018b632a5cfb1400e02fe&tid=ys&id=42
+CCTV女性时尚 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=b5fbb03bb2ce9630ae3d7558fa837775&tid=ys&id=43
 
 
 
@@ -54,9 +64,6 @@ CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&enc
 CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
 
 CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
-CHC高清电影,http://49.235.110.121:9090/daili/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
-CHC动作电影,http://49.235.110.121:9090/daili/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
-CHC家庭影院,http://49.235.110.121:9090/daili/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
 
 
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
@@ -94,19 +101,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1
 
 地方,#genre#
 
-江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=$咪咕
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=$咪咕
-江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=$咪咕
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=$咪咕
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=$咪咕
-湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=$咪咕
-广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=$咪咕
-云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=$咪咕
-重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=$咪咕
-西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/350/index.m3u8?&encrypt=$咪咕
-新疆卫视,http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/index.m3u8?&encrypt=$咪咕
-甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=$咪咕
-陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=$咪咕
+
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
@@ -423,9 +418,57 @@ ytb测试,http://152.70.36.39:8080/ytb.m3u8?url=jfKfPfyJRdk
 proxy测试,http://152.70.36.39:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 jishi测试,http://152.70.36.39:8080/jishi/weishipindao.m3u8
 
+测试345,#genre#
+
+
 测试2,#genre#
 guanwang,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS
 iptv345,http://152.70.36.39:8080/proxy.m3u8?url=https://p.ggiptv.com/v/ysp.m3u8?token=wBgXXoVsBQZ1uqY2zSdW%2Fq1i&id=cctv2
 
+CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=$咪咕
+CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=$咪咕
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=$咪咕
+CCTV4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=$咪咕
+CCTV4欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=$咪咕
+CCTV5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=$咪咕
+CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=$咪咕
+CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=$咪咕
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=$咪咕
+CCTV9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=$咪咕
+CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=$咪咕
+CCTV11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=$咪咕
+CCTV12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?&encrypt=$咪咕
+CCTV13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=$咪咕
+CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?&encrypt=$咪咕
+CCTV15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=$咪咕
+CCTV17,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=$咪咕
 
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8$移动
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$移动
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$移动
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$移动
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8$移动
+CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$移动
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$移动
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$移动
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$移动
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$移动
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$移动
+
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=$咪咕
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=$咪咕
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=$咪咕
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=$咪咕
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=$咪咕
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=$咪咕
+广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=$咪咕
+云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=$咪咕
+重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=$咪咕
+西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/350/index.m3u8?&encrypt=$咪咕
+新疆卫视,http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/index.m3u8?&encrypt=$咪咕
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=$咪咕
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=$咪咕
 
