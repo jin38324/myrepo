@@ -1,27 +1,27 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 
-CCTV1综合高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=75f6af133831f791af7e904b4ff4b64f&tid=ys&id=1
-CCTV2财经高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=36cce39053b15a7c2806f27a3a0914c0&tid=ys&id=2
-CCTV3综艺高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e864adf8e56155382761c3787bfaec6a&tid=ys&id=3
-CCTV4中文国际高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a56d78a7187c5caf56c371e6ff9b3d1d&tid=ys&id=4
-CCTV5体育高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=030d845f8f8e417ec63bd6ada7f9512f&tid=ys&id=5
-CCTV5+体育赛事高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a2a642312539d92758932e0b7f0ce02f&tid=ys&id=6
-CCTV6电影高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=000e771fd471d51f78668ac91da54bc2&tid=ys&id=7
-CCTV7国防军事高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2c870d6a132f8504f1be985a910cdbdb&tid=ys&id=8
-CCTV8电视剧高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=061363379cc987c5fd38e4f7e5f60693&tid=ys&id=9
-CCTV9纪录高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a4e0ca2f7a9cf882b26e8f140a2ad757&tid=ys&id=10
-CCTV10科教高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=833328b0baabb651fb75045b5b7e4c5e&tid=ys&id=11
-CCTV11戏曲高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e5517e712f36d58bec290582a2e6a123&tid=ys&id=12
-CCTV12社会与法高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=d18e9f1260e9e6519b4cccfb827f0769&tid=ys&id=13
-CCTV13新闻高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=41e61aa8dadcc76bcde74b61218f0b1e&tid=ys&id=14
-CCTV14少儿高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=168dbc84cde1c24946ee56117611b252&tid=ys&id=15
-CCTV15音乐高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=b8e0d6b84db6e1c5f4deadcfdd41b8de&tid=ys&id=16
-CCTV16奥林匹克 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2cc66ecadf91d3548b2dbdacffa6461e&tid=ys&id=17
-CCTV17农业农村高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a5c8851972e8f5c28d141cefa38cd194&tid=ys&id=18
-CCTV4k高清 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=4aad395ef5e707a9b90b0742a5b96dca&tid=ys&id=19
-CCTV4欧洲HD , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ef113cf571538ecd14c251a015c106fc&tid=ys&id=20
-CCTV4美洲HD , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=bd5996dfbc2df618f09e625c084f3868&tid=ys&id=21
+CCTV1 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=75f6af133831f791af7e904b4ff4b64f&tid=ys&id=1
+CCTV2 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=36cce39053b15a7c2806f27a3a0914c0&tid=ys&id=2
+CCTV3 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e864adf8e56155382761c3787bfaec6a&tid=ys&id=3
+CCTV4 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a56d78a7187c5caf56c371e6ff9b3d1d&tid=ys&id=4
+CCTV5 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=030d845f8f8e417ec63bd6ada7f9512f&tid=ys&id=5
+CCTV5+ , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a2a642312539d92758932e0b7f0ce02f&tid=ys&id=6
+CCTV6 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=000e771fd471d51f78668ac91da54bc2&tid=ys&id=7
+CCTV7 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2c870d6a132f8504f1be985a910cdbdb&tid=ys&id=8
+CCTV8 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=061363379cc987c5fd38e4f7e5f60693&tid=ys&id=9
+CCTV9 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a4e0ca2f7a9cf882b26e8f140a2ad757&tid=ys&id=10
+CCTV10 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=833328b0baabb651fb75045b5b7e4c5e&tid=ys&id=11
+CCTV11 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e5517e712f36d58bec290582a2e6a123&tid=ys&id=12
+CCTV12 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=d18e9f1260e9e6519b4cccfb827f0769&tid=ys&id=13
+CCTV13 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=41e61aa8dadcc76bcde74b61218f0b1e&tid=ys&id=14
+CCTV14 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=168dbc84cde1c24946ee56117611b252&tid=ys&id=15
+CCTV15 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=b8e0d6b84db6e1c5f4deadcfdd41b8de&tid=ys&id=16
+CCTV16 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2cc66ecadf91d3548b2dbdacffa6461e&tid=ys&id=17
+CCTV17 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a5c8851972e8f5c28d141cefa38cd194&tid=ys&id=18
+CCTV4k , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=4aad395ef5e707a9b90b0742a5b96dca&tid=ys&id=19
+CCTV4欧洲 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ef113cf571538ecd14c251a015c106fc&tid=ys&id=20
+CCTV4美洲 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=bd5996dfbc2df618f09e625c084f3868&tid=ys&id=21
 CGTN , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=24c6c7b09cfd6c938d78b3b8cea7ad6e&tid=ys&id=23
 CGTN纪录 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ff585e9356bf39194674a9eb47ff8aab&tid=ys&id=24
 CCTV阿拉伯语 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=09c22d6e8aa185ff9427c0cc5ceac9da&tid=ys&id=25
