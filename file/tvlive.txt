@@ -1,36 +1,29 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
+CCTV1 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=1$自制源
+CCTV2 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=2$自制源
+CCTV3 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=3$自制源
+CCTV4 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=4$自制源
+CCTV5 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=5$自制源
+CCTV5+ , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=6$自制源
+CCTV6 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=7$自制源
+CCTV7 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=8$自制源
+CCTV8 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=9$自制源
+CCTV9 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=10$自制源
+CCTV10 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=11$自制源
+CCTV11 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=12$自制源
+CCTV12 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=13$自制源
+CCTV13 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=14$自制源
+CCTV14 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=15$自制源
+CCTV15 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=16$自制源
+CCTV16 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=17$自制源
+CCTV17 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=18$自制源
 
-CCTV1 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=678c239c559e58a3a14e91822b1b4036&tid=ys&id=1$自制源
-CCTV2 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=11401eaa1d9e162296c975d30576a668&tid=ys&id=2$自制源
-CCTV3 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=340480214795f20a4ba80b1167e08151&tid=ys&id=3$自制源
-CCTV4 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=aa9b6d4a52614b442275552c2bc31176&tid=ys&id=4$自制源
-CCTV5 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=20cd2a5d9c9d1b51592cbaf761155a5c&tid=ys&id=5$自制源
-CCTV5+ , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=97b0bbf40604670ba13c091f0f625d8d&tid=ys&id=6$自制源
-CCTV6 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=4704058959230d44b2a5ef909bbfa821&tid=ys&id=7$自制源
-CCTV7 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e6a5d3b9307be228ab4051513aa9e9fd&tid=ys&id=8$自制源
-CCTV8 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=b3c41069a877354a4b3feb25264e2ae5&tid=ys&id=9$自制源
-CCTV9 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=dece3d89350ad6c95d6f921d11b163bd&tid=ys&id=10$自制源
-CCTV10 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=f3a71a648836378e72eb937ccd5f552b&tid=ys&id=11$自制源
-CCTV11 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=d3989cc83a504066510497611a20b1be&tid=ys&id=12$自制源
-CCTV12 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=798c590c4dc18b13da7c86ae4776cfe8&tid=ys&id=13$自制源
-CCTV13 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=6d0b60f43789a8cd8ee0ffba701589e1&tid=ys&id=14$自制源
-CCTV14 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=6d512202c1c557b042b240caa769f2c6&tid=ys&id=15$自制源
-CCTV15 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ef8513d61f738e2118f729afe081c5b4&tid=ys&id=16$自制源
-CCTV16 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=d3fefd4602a569a6475dcb0f869e7199&tid=ys&id=17$自制源
-
-CCTV兵器科技 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=0501d76893b9d204d95564fe0b508a7a&tid=ys&id=33$自制源
-CCTV怀旧剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=beeb3e91ea72af02e0606b2304ae9025&tid=ys&id=34$自制源
-CCTV第一剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=383f87905a7d3c7fba62e2c1d721d861&tid=ys&id=35$自制源
-CCTV风云剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=545211cc9be182829ce77613546cd11b&tid=ys&id=36$自制源
-CCTV风云音乐 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=5c57ec7bd7b26ee86565f1cd8ede8c11&tid=ys&id=37$自制源
-CCTV风云足球 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e800cc15d177dd74e9f5cdbbb8433268&tid=ys&id=38$自制源
-CCTV世界地理 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e319fd6ef85ff3660e11d1e3c1a8a74c&tid=ys&id=39$自制源
-CCTV文化精品 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=48bad4909af6fc9432de3e532b17a749&tid=ys&id=40$自制源
-CCTV央视台球 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=2880b485f46789a3670a209e11681396&tid=ys&id=41$自制源
-CCTV高尔夫网球 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=0ac407ace0890eac98c8fd8bd9ead78e&tid=ys&id=42$自制源
-CCTV女性时尚 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=adcdb5d8608b48491c114e8a32823d06&tid=ys&id=43$自制源
-
+CCTV怀旧剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=34$自制源
+CCTV第一剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=35$自制源
+CCTV风云剧场 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=36$自制源
+CCTV世界地理 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=39$自制源
+CCTV文化精品 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ys&id=40$自制源
 
 
 
@@ -86,43 +79,43 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1
 
 地方,#genre#
 
-湖南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=621cc41b283d6ef1f56fd9ebe0368534&tid=ws&id=1$自制源
-江苏卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=7f538592b6050c484f2229db91dcaafd&tid=ws&id=2$自制源
-浙江卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=951d654faa1e82bab7eebbac38c7f69e&tid=ws&id=3$自制源
-东方卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=830efc2c178a8b695dfeb9d9df69db6e&tid=ws&id=4$自制源
-北京卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=f24065e4c5291aaec5ba3dab6cccae9f&tid=ws&id=5$自制源
-深圳卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=690b513abd5bd8037674927658440bdb&tid=ws&id=6$自制源
-广东卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=02a898e7bca1eb6b53e4d27dfcf421d8&tid=ws&id=7$自制源
-安徽卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=b0f5e3532d8d4b46b6912e62b67a8b24&tid=ws&id=8$自制源
-东南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=8b4324b9372eca6aefbd466ac77ef05b&tid=ws&id=9$自制源
-河北卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=f176f5c0c82790f5e342d472aee4c488&tid=ws&id=10$自制源
-黑龙江卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=e206c9ed2cebedebe0c33d7be1f44e32&tid=ws&id=11$自制源
-湖北卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=1676c1145ae53a0afc3cc296ef112b7c&tid=ws&id=12$自制源
-江西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=91a32f6f486bdf34f5ecb1050c3270e1&tid=ws&id=13$自制源
-辽宁卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=470d9c3ee5bc737bf1532a441f0731f5&tid=ws&id=14$自制源
-海南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=6c9ca91cfd7c99960f7b9dff61611fa3&tid=ws&id=15$自制源
-山东卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=5f2b6045533a68881076cdf9b7809337&tid=ws&id=16$自制源
-四川卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=ed6dd8f8691d8558da4299dbc199b045&tid=ws&id=17$自制源
-天津卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=f98171f0d83aeec310725b5199b161a7&tid=ws&id=18$自制源
-重庆卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=42c92200d9dc2e9150e5090aace9732b&tid=ws&id=19$自制源
-贵州卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=aba79044484fb0d74ad22cf630959378&tid=ws&id=20$自制源
-吉林卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=173c213f80496a96cb34f337b7549b3f&tid=ws&id=21$自制源
-广西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=dbf4ef348ec7d9122fd696501f9167be&tid=ws&id=22$自制源
-河南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=a0dc8b469e9d9ed203fedd284127de9c&tid=ws&id=23$自制源
-甘肃卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=c4619ee88b681aac2cfbaa456548d8a0&tid=ws&id=24$自制源
-青海卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=20a09a1386ae6fd7a77457fdc8d1e293&tid=ws&id=25$自制源
-云南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=505ee5a26b0e7ce5e48c7f3f76bd5f0b&tid=ws&id=26$自制源
-内蒙古卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=287236f06dc90a5f384bdbeb31c6b7c5&tid=ws&id=27$自制源
-山西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=b584abdd5b36580667325e4ca5a120a4&tid=ws&id=28$自制源
-陕西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=21228eaabad83cc23629a19f99eb63f3&tid=ws&id=29$自制源
-兵团卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=8ed6c6aaa58d3b4cc0057a8c372528a8&tid=ws&id=30$自制源
-新疆卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=9d17cdd90fabb300793183c3ee2de060&tid=ws&id=31$自制源
-西藏卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=499a6113bbd6ee8ab2447eb44d093eed&tid=ws&id=32$自制源
-宁夏卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=bc0ac82d5c8184fe4649f00a17d6a4a3&tid=ws&id=33$自制源
-延边卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=cab1424f5bfe34f89aac29fda581489b&tid=ws&id=34$自制源
-康巴卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=15156da48c7e31a4956d3a86eff07a2d&tid=ws&id=35$自制源
-大湾区卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=cdd2dc812305a4d69c2c9e089f76a01f&tid=ws&id=36$自制源
-广东珠江 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&token=62d4d4a8f2eda5baf527f595b073842a&tid=ws&id=37$自制源
+湖南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=1$自制源
+江苏卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=2$自制源
+浙江卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=3$自制源
+东方卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=4$自制源
+北京卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=5$自制源
+深圳卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=6$自制源
+广东卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=7$自制源
+安徽卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=8$自制源
+东南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=9$自制源
+河北卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=10$自制源
+黑龙江卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=11$自制源
+湖北卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=12$自制源
+江西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=13$自制源
+辽宁卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=14$自制源
+海南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=15$自制源
+山东卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=16$自制源
+四川卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=17$自制源
+天津卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=18$自制源
+重庆卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=19$自制源
+贵州卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=20$自制源
+吉林卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=21$自制源
+广西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=22$自制源
+河南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=23$自制源
+甘肃卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=24$自制源
+青海卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=25$自制源
+云南卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=26$自制源
+内蒙古卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=27$自制源
+山西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=28$自制源
+陕西卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=29$自制源
+兵团卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=30$自制源
+新疆卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=31$自制源
+西藏卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=32$自制源
+宁夏卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=33$自制源
+延边卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=34$自制源
+康巴卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=35$自制源
+大湾区卫视 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=36$自制源
+广东珠江 , http://152.70.36.39:8080/iptvonline.m3u8?act=play&tid=ws&id=37$自制源
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
