@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1 ,https://live.olelive.com:6443/live/CCTV1HD/hls.m3u8$ole
 CCTV2 ,https://live.olelive.com:6443/live/CCTV2HD/hls.m3u8$ole
@@ -8,6 +8,8 @@ CCTV8 ,https://live.olelive.com:6443/live/CCTV8HD/hls.m3u8$ole
 CCTV9 ,https://live.olelive.com:6443/live/CCTV9HD/hls.m3u8$ole
 CCTV10 ,https://live.olelive.com:6443/live/CCTV10HD/hls.m3u8$ole
 
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 CCTV17 ,https://live.olelive.com:6443/live/CCTV17HD/hls.m3u8$ole
 
@@ -17,8 +19,7 @@ CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
 
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+
 
 
 
