@@ -1,51 +1,18 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1 ,https://live.olelive.com:6443/live/CCTV1HD/hls.m3u8$ole
 CCTV2 ,https://live.olelive.com:6443/live/CCTV2HD/hls.m3u8$ole
-CCTV3 ,https://live.olelive.com:6443/live/CCTV3HD/hls.m3u8$ole
-CCTV4 ,https://live.olelive.com:6443/live/CCTV4HD/hls.m3u8$ole
 CCTV5 ,https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8$ole
-CCTV6 ,https://live.olelive.com:6443/live/CCTV6HD/hls.m3u8$ole
 CCTV7 ,https://live.olelive.com:6443/live/CCTV7HD/hls.m3u8$ole
 CCTV8 ,https://live.olelive.com:6443/live/CCTV8HD/hls.m3u8$ole
 CCTV9 ,https://live.olelive.com:6443/live/CCTV9HD/hls.m3u8$ole
 CCTV10 ,https://live.olelive.com:6443/live/CCTV10HD/hls.m3u8$ole
-CCTV11 ,https://live.olelive.com:6443/live/CCTV11HD/hls.m3u8$ole
-CCTV12 ,https://live.olelive.com:6443/live/CCTV12HD/hls.m3u8$ole
-CCTV13 ,https://live.olelive.com:6443/live/CCTV13HD/hls.m3u8$ole
-CCTV14 ,https://live.olelive.com:6443/live/CCTV14HD/hls.m3u8$ole
-CCTV15 ,https://live.olelive.com:6443/live/CCTV15HD/hls.m3u8$ole
-CCTV16 ,https://live.olelive.com:6443/live/CCTV16HD/hls.m3u8$ole
 CCTV17 ,https://live.olelive.com:6443/live/CCTV17HD/hls.m3u8$ole
 
 
 
-
-CCTV1 ,https://live.goodiptv.club/api/bestv.php?id=cctv1hd/8000000
-CCTV2 ,https://live.goodiptv.club/api/bestv.php?id=cctv2hd/8000000
-CCTV3 ,https://live.goodiptv.club/api/bestv.php?id=cctv3/8000000
-CCTV4 ,https://live.goodiptv.club/api/bestv.php?id=cctv4hd/8000000
-CCTV5 ,https://live.goodiptv.club/api/bestv.php?id=cctv5/8000000
-CCTV6 ,https://live.goodiptv.club/api/bestv.php?id=cctv6hd/8000000
-CCTV7 ,https://live.goodiptv.club/api/bestv.php?id=cctv7hd/8000000
-CCTV8 ,https://live.goodiptv.club/api/bestv.php?id=cctv8hd/8000000
-CCTV9 ,https://live.goodiptv.club/api/bestv.php?id=cctv9hd/8000000
-CCTV10 ,https://live.goodiptv.club/api/bestv.php?id=cctv10hd/8000000
-CCTV11 ,https://live.goodiptv.club/api/bestv.php?id=cctv11hd/8000000
-CCTV12 ,https://live.goodiptv.club/api/bestv.php?id=cctv12hd/8000000
-CCTV13 ,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd/8000000
-CCTV14 ,https://live.goodiptv.club/api/bestv.php?id=cctvsehd/8000000
-CCTV15 ,https://live.goodiptv.club/api/bestv.php?id=cctv15hd/8000000
-CCTV16 ,https://live.goodiptv.club/api/bestv.php?id=cctv16hd/8000000
-CCTV17 ,https://live.goodiptv.club/api/bestv.php?id=cctv17hd/8000000
-
-
-
-
-
-
 CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
-CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
@@ -54,24 +21,8 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 
 CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
-CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
 
-CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
-
-
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://devlivepull.migucloud.com/live/3S6PAWLT_C0.flv
-
-
-CCTV1,https://tvphp1.rbq.plus/jd1.php?id=cctv1$JDY
-CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-CCTV1,https://epg.pw/stream/2ea8d809efa19eaa31a24e7b4b99531c817d168b06629571c42e12f98f592d90.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV6,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
 
 
 
