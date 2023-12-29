@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1 ,https://live.olelive.com:6443/live/CCTV1HD/hls.m3u8$ole
 CCTV2 ,https://live.olelive.com:6443/live/CCTV2HD/hls.m3u8$ole
@@ -45,9 +45,6 @@ CCTV13,http://devlivepull.migucloud.com/live/3S6PAWLT_C0.flv
 
 
 地方,#genre#
-
-
-
 
 
 江苏卫视 ,https://live.goodiptv.club/api/bestv.php?id=jswshd/8000000
@@ -538,4 +535,6 @@ CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 海南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 
 
+测试3,#genre#
+CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 
