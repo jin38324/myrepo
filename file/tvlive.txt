@@ -1,11 +1,14 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1 ,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8$ole
-CCTV2 ,https://live.olelive.com:6443/live/CCTV2HD/hls.m3u8$ole
-CCTV3 ,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8$ole
-CCTV5 ,https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8$ole
-CCTV6 ,http://8.210.232.168/php/migu.php?id=cctv6
-CCTV7 ,https://live.olelive.com:6443/live/CCTV7HD/hls.m3u8$ole
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV3,https://h5.live.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=2b078cd34e1a270ef2263741a76da7af&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20240127100851&Channel_ID=2504090300-99000-200300020100001&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=27.184.150.200&SecurityKey=20240127100851&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-7.1.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=08daeff5c302499d739d465f70a75fc8
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV8 ,https://live.olelive.com:6443/live/CCTV8HD/hls.m3u8$ole
 CCTV9 ,https://live.olelive.com:6443/live/CCTV9HD/hls.m3u8$ole
 CCTV10 ,https://live.olelive.com:6443/live/CCTV10HD/hls.m3u8$ole
@@ -34,6 +37,11 @@ CCTV9,http://8.210.232.168/php/migu.php?id=cctv9
 CCTV10,http://8.210.232.168/php/migu.php?id=cctv10
 
 CCTV13,http://8.210.232.168/php/migu.php?id=cctv13
+
+
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 
 
 
