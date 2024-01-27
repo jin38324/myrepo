@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
@@ -62,6 +62,9 @@ CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 
+CHC动作电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+CHC高清电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 
 
@@ -85,151 +88,48 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 
 地方,#genre#
 
+江苏卫视,https://live3.rxip.sc96655.com/live/jswsH265_4000.m3u8
 
-江苏卫视 ,https://live.goodiptv.club/api/bestv.php?id=jswshd/8000000
-广西卫视 ,https://live.goodiptv.club/api/bestv.php?id=gxwshd/8000000
-四川卫视 ,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-湖南卫视 ,https://live.goodiptv.club/api/bestv.php?id=hunanwshd/8000000
-浙江卫视 ,https://live.goodiptv.club/api/bestv.php?id=zjwshd/8000000
-东方卫视 ,https://live.goodiptv.club/api/bestv.php?id=dfwshd/8000000
-北京卫视 ,https://live.goodiptv.club/api/bestv.php?id=bjwshd/8000000
-天津卫视 ,https://live.goodiptv.club/api/bestv.php?id=tjwshd/8000000
-辽宁卫视 ,https://live.goodiptv.club/api/bestv.php?id=lnwshd/8000000
-安徽卫视 ,https://live.goodiptv.club/api/bestv.php?id=ahwshd/8000000
-黑龙江卫视 ,https://live.goodiptv.club/api/bestv.php?id=hljwshd/8000000
-广东卫视 ,https://live.goodiptv.club/api/bestv.php?id=gdwshd/8000000
-深圳卫视 ,https://live.goodiptv.club/api/bestv.php?id=szwshd/8000000
-湖北卫视 ,https://live.goodiptv.club/api/bestv.php?id=hubeiws/8000000
-吉林卫视 ,https://live.goodiptv.club/api/bestv.php?id=jlwshd/8000000
-山东卫视 ,https://live.goodiptv.club/api/bestv.php?id=sdws/8000000
-江西卫视 ,https://live.goodiptv.club/api/bestv.php?id=jxws/8000000
-河南卫视 ,https://live.goodiptv.club/api/bestv.php?id=hnwshd/8000000
-河北卫视 ,https://live.goodiptv.club/api/bestv.php?id=hbwshd/8000000
-甘肃卫视 ,https://live.goodiptv.club/api/bestv.php?id=gswshd/8000000
-重庆卫视 ,https://live.goodiptv.club/api/bestv.php?id=cqws/8000000
-东南卫视 ,https://live.goodiptv.club/api/bestv.php?id=dnwshd/8000000
-云南卫视 ,https://live.goodiptv.club/api/bestv.php?id=ynwshd/8000000
-贵州卫视 ,https://live.goodiptv.club/api/bestv.php?id=gzwshd/8000000
-海南卫视 ,https://live.goodiptv.club/api/bestv.php?id=hainanwshd/8000000
+浙江卫视,https://live3.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 
-安徽卫视,https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
-北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
-兵团卫视,https://live.goodiptv.club/api/sxg.php?id=btws_4000
-重庆卫视,https://live.goodiptv.club/api/sxg.php?id=cqwsH265_4000
-东方卫视,https://live.goodiptv.club/api/sxg.php?id=dfwsH265_4000
-东南卫视,https://live.goodiptv.club/api/sxg.php?id=dnwsfjwsH265_4000
-甘肃卫视,https://live.goodiptv.club/api/sxg.php?id=gsws_4000
-广东卫视,https://live.goodiptv.club/api/sxg.php?id=gdwsH265_4000
-广西卫视,https://live.goodiptv.club/api/sxg.php?id=gxws_4000
-贵州卫视,https://live.goodiptv.club/api/sxg.php?id=gzwsH265_4000
-海南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws_4000
-河南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
-黑龙江卫视,https://live.goodiptv.club/api/sxg.php?id=hljwsH265_4000
-湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
-湖南卫视,https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
-吉林卫视,https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
-江苏卫视,https://live.goodiptv.club/api/sxg.php?id=jswsH265_4000
-江西卫视,https://live.goodiptv.club/api/sxg.php?id=jxwsH265_4000
-康巴卫视,https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
-辽宁卫视,https://live.goodiptv.club/api/sxg.php?id=lnwsHDH264_4000
-内蒙古卫视,https://live.goodiptv.club/api/sxg.php?id=nmgws_4000
-山东教育卫视,https://live.goodiptv.club/api/sxg.php?id=sdjy_4000
-山东卫视,https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
-山西卫视,https://live.goodiptv.club/api/sxg.php?id=sxws42_4000
-陕西卫视,https://live.goodiptv.club/api/sxg.php?id=sxws_4000
-深圳卫视,https://live.goodiptv.club/api/sxg.php?id=szwsH265_4000
-四川卫视,https://live.goodiptv.club/api/sxg.php?id=scwsH265_4000
-天津卫视,https://live.goodiptv.club/api/sxg.php?id=tjwsH265_4000
-西藏卫视,https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
-云南卫视,https://live.goodiptv.club/api/sxg.php?id=ynws_4000
-浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
-CETV-1,https://live.goodiptv.club/api/sxg.php?id=CETV-1H264_4000
+湖南卫视,https://live3.rxip.sc96655.com/live/hnwsH265_4000.m3u8
 
+东方卫视,https://live3.rxip.sc96655.com/live/dfwsH265_4000.m3u8
 
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+河南卫视,https://live3.rxip.sc96655.com/live/hnws35_4000.m3u8
 
+辽宁卫视,https://live3.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
 
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+江西卫视,https://live3.rxip.sc96655.com/live/jxwsH265_4000.m3u8
 
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+安徽卫视,https://live3.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+北京卫视,https://live3.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+兵团卫视,https://live3.rxip.sc96655.com/live/btws_4000.m3u8
+重庆卫视,https://live3.rxip.sc96655.com/live/cqwsH265_4000.m3u8
 
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+东南卫视,https://live3.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
+甘肃卫视,https://live3.rxip.sc96655.com/live/gsws_4000.m3u8
+广东卫视,https://live3.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+广西卫视,https://live3.rxip.sc96655.com/live/gxws_4000.m3u8
+贵州卫视,https://live3.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+海南卫视,https://live3.rxip.sc96655.com/live/hnws_4000.m3u8
 
-黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+黑龙江卫视,https://live3.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+湖北卫视,https://live3.rxip.sc96655.com/live/hbwsH265_4000.m3u8
 
-
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+吉林卫视,https://live3.rxip.sc96655.com/live/jlwsH265_4000.m3u8
 
 
 
-
-黑龙江卫视,http://49.235.110.121:9090/daili/小果.php?id=hljwsH265_4000&Cf.m3u8
-吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-宁夏卫视,http://183.66.196.98:9901/tsfile/live/0112_1.m3u8
-
-内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
-
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u81
-北京卫视,https://video.lzjtu.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/index.m3u8
-湖北卫视,https://video.lzjtu.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/index.m3u8
-湖南卫视,https://video.lzjtu.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/index.m3u8
-天津卫视,https://video.lzjtu.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/index.m3u8
-东南卫视,https://video.lzjtu.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/index.m3u8
-广东卫视,https://video.lzjtu.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/index.m3u8
-重庆卫视,https://video.lzjtu.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/index.m3u8
-广西卫视,https://video.lzjtu.edu.cn/liverespath/15f9ffc8f72eb7f7ddfe79669f246e4db4acc3c1/index.m3u8
-浙江卫视,https://video.lzjtu.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/index.m3u8
-四川卫视,https://video.lzjtu.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8
-江西卫视,https://video.lzjtu.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/index.m3u8
-江苏卫视,https://video.lzjtu.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/index.m3u8
-陕西卫视,https://video.lzjtu.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/index.m3u8
-四川卫视,https://video.lzjtu.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8
-河北卫视,https://video.lzjtu.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/index.m3u8
-山西卫视,https://video.lzjtu.edu.cn/liverespath/74908123d020c1a9f55e8a9652973187bcd07970/index.m3u8
-山东卫视,https://video.lzjtu.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/index.m3u8
-安徽卫视,https://video.lzjtu.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/index.m3u8
-河南卫视,https://video.lzjtu.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/index.m3u8
-云南卫视,https://video.lzjtu.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/index.m3u8
-海南卫视,https://video.lzjtu.edu.cn/liverespath/6439a34cf7b96bdfd8c4234fc91cb4912c9becd1/index.m3u8
-贵州卫视,https://video.lzjtu.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/index.m3u8
-内蒙古卫视,https://video.lzjtu.edu.cn/liverespath/5a601b122fcaacb6480b65cb74ee8f76347020d6/index.m3u8
-辽宁卫视,https://video.lzjtu.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/index.m3u8
-黑龙江卫视,https://video.lzjtu.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/index.m3u8
-新疆卫视,https://video.lzjtu.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/index.m3u8
-西藏卫视,https://video.lzjtu.edu.cn/liverespath/223db5dc75cab2536cbebcda8e6730ff6bf58309/index.m3u8
-安徽卫视,http://61.169.37.218:9901/tsfile/live/0130_1.m3u8?key=txiptv
-东方卫视,http://cfss.cc/api/ysp/dfws.m3u8
-北京卫视,http://cfss.cc/api/ysp/bjws.m3u8
-浙江卫视,http://cfss.cc/api/ysp/zjws.m3u8
-江苏卫视,http://cfss.cc/api/ysp/jsws.m3u8
-安徽卫视,http://cfss.cc/api/ysp/ahws.m3u8
-
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
-海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+内蒙古卫视,https://live3.rxip.sc96655.com/live/nmgws_4000.m3u8
+山东教育卫视,https://live3.rxip.sc96655.com/live/sdjy_4000.m3u8
+山东卫视,https://live3.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+山西卫视,https://live3.rxip.sc96655.com/live/sxws42_4000.m3u8
+陕西卫视,https://live3.rxip.sc96655.com/live/sxws_4000.m3u8
+深圳卫视,https://live3.rxip.sc96655.com/live/szwsH265_4000.m3u8
+天津卫视,https://live3.rxip.sc96655.com/live/tjwsH265_4000.m3u8
+西藏卫视,https://live3.rxip.sc96655.com/live/xzwsH264_2000.m3u8
+云南卫视,https://live3.rxip.sc96655.com/live/ynws_4000.m3u8
 
 
 自制源,#genre#
