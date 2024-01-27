@@ -1,9 +1,28 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+
+CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
+CCTV3,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+CCTV4,https://live3.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
+CCTV5,https://live3.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+CCTV6,https://live3.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+CCTV7,https://live3.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+CCTV8,https://live3.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
+CCTV9,https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+CCTV10,https://live3.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
+CCTV11,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+CCTV12,https://live3.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
+CCTV13,https://live3.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+CCTV14,https://live3.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+CCTV15,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+CCTV17,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8
+
 
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1 ,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8$ole
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+
 CCTV3,https://h5.live.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=2b078cd34e1a270ef2263741a76da7af&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20240127100851&Channel_ID=2504090300-99000-200300020100001&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=27.184.150.200&SecurityKey=20240127100851&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-7.1.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=08daeff5c302499d739d465f70a75fc8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
