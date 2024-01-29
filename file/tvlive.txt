@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
@@ -205,23 +205,24 @@ Press TV [2],https://live1.presstv.ir/live/presstvfr/index.m3u8#https://live.pre
 
 电影,#genre#
 
-斗鱼-4K影院,http://epg.112114.xyz/douyu/9249162
 
 斗鱼-豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
+斗鱼-4K影院,http://epg.112114.xyz/douyu/9249162
 
-斗鱼-好莱坞电影,http://epg.112114.xyz/douyu/6140589
+
+斗鱼-好莱坞电影1,http://epg.112114.xyz/douyu/6140589
 
 
-斗鱼-好莱坞电影,http://epg.112114.xyz/douyu/9651304
+斗鱼-好莱坞电影2,http://epg.112114.xyz/douyu/9651304
 
-斗鱼-好莱坞电影,http://epg.112114.xyz/douyu/413573
+斗鱼-好莱坞电影3,http://epg.112114.xyz/douyu/413573
 
-斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/4332
+斗鱼-点播-好莱坞电影1,http://epg.112114.xyz/douyu/4332
 
-斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/252802
-斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/36337
-斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/20415
+斗鱼-点播-好莱坞电影2,http://epg.112114.xyz/douyu/252802
+斗鱼-点播-好莱坞电影3,http://epg.112114.xyz/douyu/36337
+斗鱼-点播-好莱坞电影4,http://epg.112114.xyz/douyu/20415
 
 斗鱼-好莱坞经典,http://epg.112114.xyz/douyu/2436390
 
