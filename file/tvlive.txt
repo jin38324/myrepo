@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
@@ -135,23 +135,6 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 
 
-
-
-
-海外,#genre#
-
-寰宇Global News TV,http://152.70.36.39:8080/ytb.m3u8?url=V8ue1aoEOEQ
-
-寰宇線上直播,http://152.70.36.39:8080/ytb.m3u8?url=6IquAgfvYmc
-
-
-
-寰宇Global News TV,http://152.70.36.39:30088/ytb.m3u8?url=V8ue1aoEOEQ
-
-寰宇線上直播,http://152.70.36.39:30088/ytb.m3u8?url=6IquAgfvYmc
-
-
-
 新闻,#genre#
 
 
@@ -222,14 +205,53 @@ Press TV [2],https://live1.presstv.ir/live/presstvfr/index.m3u8#https://live.pre
 
 电影,#genre#
 
+斗鱼-4K影院,http://epg.112114.xyz/douyu/9249162
+
+斗鱼-豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
 
-华数4K影视,http://39.135.6.18:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+斗鱼-好莱坞电影,http://epg.112114.xyz/douyu/6140589
 
-斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
 
-豆瓣电影,http://epg.112114.xyz/douyu/8770422
+斗鱼-好莱坞电影,http://epg.112114.xyz/douyu/9651304
 
+斗鱼-好莱坞电影,http://epg.112114.xyz/douyu/413573
+
+斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/4332
+
+斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/252802
+斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/36337
+斗鱼-点播-好莱坞电影,http://epg.112114.xyz/douyu/20415
+
+斗鱼-好莱坞经典,http://epg.112114.xyz/douyu/2436390
+
+斗鱼-哈利波特,http://epg.112114.xyz/douyu/8814650
+斗鱼-权力的游戏,http://epg.112114.xyz/douyu/8945323
+斗鱼-点播-华语电影,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&amp;token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&amp;logo=0&amp;expire=0&amp;did=d010b07dcb997ada9934081c873542f0&amp;origin=tct&amp;vhost=pla
+
+斗鱼-点播-惊悚电影,http://epg.112114.xyz/douyu/96577
+
+斗鱼-点播-喜剧,http://epg.112114.xyz/douyu/122402
+斗鱼-喜剧,http://epg.112114.xyz/douyu/9292492
+斗鱼-经典电影,http://epg.112114.xyz/douyu/74374
+
+
+
+
+
+
+
+
+测试,#genre#
+
+ytb测试,http://152.70.36.39:8080/ytb.m3u8?url=jfKfPfyJRdk
+proxy测试,http://152.70.36.39:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+jishi测试,http://152.70.36.39:8080/jishi/weishipindao.m3u8
+
+
+
+
+测试2,#genre#
 
 
 北京BesTV-4K,http://beifeng.site:4000/udp/239.3.1.249:8001
@@ -311,21 +333,4 @@ BESTV星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
 BESTV华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 
 
-
-
-
 HBO原創2,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-
-
-
-
-
-测试,#genre#
-
-ytb测试,http://152.70.36.39:8080/ytb.m3u8?url=jfKfPfyJRdk
-proxy测试,http://152.70.36.39:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-jishi测试,http://152.70.36.39:8080/jishi/weishipindao.m3u8
-
-
-
-
