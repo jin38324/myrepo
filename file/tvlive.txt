@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
@@ -70,19 +70,19 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 河北,#genre#
 
-河北卫视,http://152.70.36.39:8080/jishi/weishipindao.m3u8
+河北卫视,http://193.122.99.166:8080/jishi/weishipindao.m3u8
 
-河北经济,http://152.70.36.39:8080/jishi/jingjishenghuo.m3u8
+河北经济,http://193.122.99.166:8080/jishi/jingjishenghuo.m3u8
 
-河北农民,http://152.70.36.39:8080/jishi/nongminpindao.m3u8
+河北农民,http://193.122.99.166:8080/jishi/nongminpindao.m3u8
 
-河北都市,http://152.70.36.39:8080/jishi/dushipindao.m3u8
+河北都市,http://193.122.99.166:8080/jishi/dushipindao.m3u8
 
-河北影视,http://152.70.36.39:8080/jishi/yingshijupindao.m3u8
+河北影视,http://193.122.99.166:8080/jishi/yingshijupindao.m3u8
 
-河北少儿科教,http://152.70.36.39:8080/jishi/shaoerkejiao.m3u8
+河北少儿科教,http://193.122.99.166:8080/jishi/shaoerkejiao.m3u8
 
-河北公共,http://152.70.36.39:8080/jishi/gonggongpindao.m3u8
+河北公共,http://193.122.99.166:8080/jishi/gonggongpindao.m3u8
 
 
 
@@ -139,15 +139,15 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 
 
-寰宇新闻2,http://152.70.36.39:8080/proxy.m3u8?url=https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻2,http://193.122.99.166:8080/proxy.m3u8?url=https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
-寰宇新闻3,http://152.70.36.39:8080/proxy.m3u8?url=https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻3,http://193.122.99.166:8080/proxy.m3u8?url=https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
 
 
-寰宇Global News TV,http://152.70.36.39:8080/ytb.m3u8?url=V8ue1aoEOEQ
+寰宇Global News TV,http://193.122.99.166:8080/ytb.m3u8?url=V8ue1aoEOEQ
 
-寰宇線上直播,http://152.70.36.39:8080/ytb.m3u8?url=6IquAgfvYmc
+寰宇線上直播,http://193.122.99.166:8080/ytb.m3u8?url=6IquAgfvYmc
 
 
 
@@ -155,17 +155,17 @@ CNA International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec9
 
 
 
-DW 德国之声,http://152.70.36.39:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+DW 德国之声,http://193.122.99.166:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 
 
-Sky News,http://152.70.36.39:8080/ytb.m3u8?url=9Auq9mYxFEE
+Sky News,http://193.122.99.166:8080/ytb.m3u8?url=9Auq9mYxFEE
 
 
 
-半岛电视台,http://152.70.36.39:8080/proxy.m3u8?url=https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+半岛电视台,http://193.122.99.166:8080/proxy.m3u8?url=https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-半岛电视台,http://152.70.36.39:8080/ytb.m3u8?url=GEumHK0hfdo
+半岛电视台,http://193.122.99.166:8080/ytb.m3u8?url=GEumHK0hfdo
 
 
 
@@ -173,11 +173,11 @@ TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
-Arirang TV,http://152.70.36.39:8080/proxy.m3u8?url=https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang TV,http://193.122.99.166:8080/proxy.m3u8?url=https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
 
-HollyWire,http://152.70.36.39:8080/proxy.m3u8?url=https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+HollyWire,http://193.122.99.166:8080/proxy.m3u8?url=https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 
 
 
@@ -236,7 +236,7 @@ Press TV [2],https://live1.presstv.ir/live/presstvfr/index.m3u8#https://live.pre
 斗鱼-喜剧,http://epg.112114.xyz/douyu/9292492
 斗鱼-经典电影,http://epg.112114.xyz/douyu/74374
 
-
+斗鱼-特辑电影,http://epg.112114.xyz/douyu/3637778
 
 
 
@@ -245,9 +245,9 @@ Press TV [2],https://live1.presstv.ir/live/presstvfr/index.m3u8#https://live.pre
 
 测试,#genre#
 
-ytb测试,http://152.70.36.39:8080/ytb.m3u8?url=jfKfPfyJRdk
-proxy测试,http://152.70.36.39:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-jishi测试,http://152.70.36.39:8080/jishi/weishipindao.m3u8
+ytb测试,http://193.122.99.166:8080/ytb.m3u8?url=jfKfPfyJRdk
+proxy测试,http://193.122.99.166:8080/proxy.m3u8?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+jishi测试,http://193.122.99.166:8080/jishi/weishipindao.m3u8
 
 
 
