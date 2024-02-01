@@ -1,8 +1,8 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
-CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
-CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
-CCTV3,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+CCTV1,https://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw3829518356_1408175536/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=18352984223&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.30.208&timestamp=20240201094803&encrypt=05437a2eba02c9e7416c8ed9785112e5&ContentId=265183188&timezone=UTC&mtv_session=c8a533162e93f97221f87daed2ee5e5c&icpid=88888888&RTS=1706780883&from=8&hms_devid=184&prioritypopid=8&online=1706780883
+CCTV2,https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV3,https://h5.live.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/01.m3u8?msisdn=4cd7dd372b828f87a4a38e622baee5e6&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20240201174151&Channel_ID=2504090300-99000-200300020100001&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=27.184.131.60&SecurityKey=20240201174151&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-7.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=bb383b89d13de9fe3c3af3ce87b40d80&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=145f94abba7d808c7ad41585fc14ab9a
 CCTV4,https://live3.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
 CCTV5,https://live3.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
 CCTV6,https://live3.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
