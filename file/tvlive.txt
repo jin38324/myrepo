@@ -1,11 +1,14 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1,https://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw3829518356_1408175536/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=18352984223&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.30.208&timestamp=20240201094803&encrypt=05437a2eba02c9e7416c8ed9785112e5&ContentId=265183188&timezone=UTC&mtv_session=c8a533162e93f97221f87daed2ee5e5c&icpid=88888888&RTS=1706780883&from=8&hms_devid=184&prioritypopid=8&online=1706780883
 CCTV2,https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV3,https://h5.live.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/01.m3u8?msisdn=4cd7dd372b828f87a4a38e622baee5e6&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20240201174151&Channel_ID=2504090300-99000-200300020100001&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=27.184.131.60&SecurityKey=20240201174151&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-7.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=bb383b89d13de9fe3c3af3ce87b40d80&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=145f94abba7d808c7ad41585fc14ab9a
-CCTV4,https://live3.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
-CCTV5,https://live3.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-CCTV6,https://live3.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+CCTV4,HTTPS://h5.live.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=71188fd6d5a36147a9a63fa8c1699a0c&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20240201175355&Channel_ID=2504090300-99000-200300020100001&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=27.184.131.60&SecurityKey=20240201175355&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-7.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=6961618a008934ee01c34442162b4ef4
+
+CCTV5,HTTPS://h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/20231202002108-01-888949.ts?msisdn=06f5176fb9fd6ff31f8c0e84cbf91e32&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20240201175655&Channel_ID=2504090300-99000-200300020100001&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=27.184.131.60&SecurityKey=20240201175655&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-7.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=c4413bafe4c0f1b656817fd9903b0fc9&encrypt=8583cda3dc3ec5b7841b82a4f2a7612b&HlsProfileId=1&HlsSubType=2
+
+CCTV6,HTTPS://h5.live.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/01.m3u8?msisdn=cdd5ee25116dc23f6e2d34f5e333cab4&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20240201175754&Channel_ID=2504090300-99000-200300020100001&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=27.184.131.60&SecurityKey=20240201175754&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-7.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=11bba5815100e3e24d8919c2280b8682&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=d2ba801bc5d198f4ca143b8169060158
+
 CCTV7,https://live3.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
 CCTV8,https://live3.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
 CCTV9,https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
@@ -88,13 +91,14 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 地方,#genre#
 
-江苏卫视,https://live3.rxip.sc96655.com/live/jswsH265_4000.m3u8
+江苏卫视,HTTPS://h5live.gslb.cmvideo.cn/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=cd11d9042c69c43ca0b7bc0d4de7a080&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20240201175900&Channel_ID=2504090300-99000-200300020100001&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=27.184.131.60&SecurityKey=20240201175900&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-7.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&puData=e6ddae7047d2ba463f0729819b3f1537&ddCalcu=7e36e5d01d3fa03eb79014879d227b0af436
+
+东方卫视,HTTPS://h5.live.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=152354020d2be41845c37c9272a5ccc0&mdspid=&spid=699212&netType=0&sid=5500058351&pid=2028597139&timestamp=20240201180526&Channel_ID=2504090300-99000-200300020100001&ProgramID=651632648&ParentNodeID=-99&assertID=5500058351&client_ip=27.184.131.60&SecurityKey=20240201180526&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-7.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=dbcba0d4b920921a9a883a2403dc5026
 
 浙江卫视,https://live3.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 
 湖南卫视,https://live3.rxip.sc96655.com/live/hnwsH265_4000.m3u8
 
-东方卫视,https://live3.rxip.sc96655.com/live/dfwsH265_4000.m3u8
 
 河南卫视,https://live3.rxip.sc96655.com/live/hnws35_4000.m3u8
 
