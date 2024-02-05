@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1, http://64.110.89.31:8181/cctv1
 CCTV2, http://64.110.89.31:8181/cctv2
@@ -207,6 +207,7 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 
 CNA International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA International,http://64.110.89.31:8080/proxy.m3u8?url=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
 
@@ -223,7 +224,7 @@ Sky News,http://64.110.89.31:8080/ytb.m3u8?url=9Auq9mYxFEE
 半岛电视台,http://64.110.89.31:8080/ytb.m3u8?url=GEumHK0hfdo
 
 
-
+TRT World,http://64.110.89.31:8080/proxy.m3u8?url=https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
@@ -232,27 +233,21 @@ Arirang TV,http://64.110.89.31:8080/proxy.m3u8?url=https://amdlive-ch02-ctnd-com
 
 
 
-HollyWire,http://64.110.89.31:8080/proxy.m3u8?url=https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+
+CBS News,http://64.110.89.31:8080/proxy.m3u8?url=https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 
 
+Euronews English,https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
 
 
-CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-
-
-Euronews English [4],https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8#https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8#https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8#https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
+LiveNOW from FOX,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+LiveNOW from FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
 
-
-LiveNOW from FOX [2],https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8#https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-
-
-Press TV [2],https://live1.presstv.ir/live/presstvfr/index.m3u8#https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+Press TV,https://live1.presstv.ir/live/presstvfr/index.m3u8
+Press TV,https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 
 
 
