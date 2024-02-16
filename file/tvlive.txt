@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿央视,#genre#
 
 CCTV1, http://64.110.89.31:8181/cctv1
 CCTV2, http://64.110.89.31:8181/cctv2
@@ -256,52 +256,52 @@ Press TV,https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 电影,#genre#
 
 
-斗鱼-豆瓣高分,http://epg.112114.xyz/douyu/8770422
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
-斗鱼-4K影院,http://epg.112114.xyz/douyu/9249162
-
-
-斗鱼-好莱坞电影1,http://epg.112114.xyz/douyu/4332
-
-斗鱼-好莱坞电影2,http://epg.112114.xyz/douyu/252802
-斗鱼-好莱坞电影3,http://epg.112114.xyz/douyu/36337
-斗鱼-好莱坞电影4,http://epg.112114.xyz/douyu/20415
+4K影院,http://epg.112114.xyz/douyu/9249162
 
 
+好莱坞电影1,http://epg.112114.xyz/douyu/4332
 
-斗鱼-电影3,http://epg.112114.xyz/douyu/413573
-斗鱼-电影4,http://epg.112114.xyz/douyu/2793084
-斗鱼-电影5,http://epg.112114.xyz/douyu/52787
-斗鱼-电影6,http://epg.112114.xyz/douyu/747764
-斗鱼-电影7,http://epg.112114.xyz/douyu/323876
-
-斗鱼-好莱坞经典,http://epg.112114.xyz/douyu/2436390
+好莱坞电影2,http://epg.112114.xyz/douyu/252802
+好莱坞电影3,http://epg.112114.xyz/douyu/36337
+好莱坞电影4,http://epg.112114.xyz/douyu/20415
 
 
-斗鱼-动画电影,http://epg.112114.xyz/douyu/7050342
-斗鱼-动画电影16,http://epg.112114.xyz/douyu/426517
+好莱坞经典,http://epg.112114.xyz/douyu/2436390
+
+
+
+
+电影3,http://epg.112114.xyz/douyu/413573
+电影4,http://epg.112114.xyz/douyu/2793084
+电影5,http://epg.112114.xyz/douyu/52787
+电影6,http://epg.112114.xyz/douyu/747764
+电影7,http://epg.112114.xyz/douyu/323876
+电影8,http://epg.112114.xyz/douyu/5033502
+
+动画电影,http://epg.112114.xyz/douyu/7050342
+动画电影2,http://epg.112114.xyz/douyu/426517
+
 华语经典,http://epg.112114.xyz/douyu/434971
 华语经典2,http://epg.112114.xyz/douyu/315457
 华语电影,http://epg.112114.xyz/douyu/3928
 粤语电影,http://epg.112114.xyz/douyu/6566671
-斗鱼-国产电影http://epg.112114.xyz/douyu/85894
-斗鱼电影15,http://epg.112114.xyz/douyu/5033502
+国产电影,http://epg.112114.xyz/douyu/85894
 国产影片,http://epg.112114.xyz/douyu/5423
 斗鱼-惊悚电影,http://epg.112114.xyz/douyu/96577
 
-斗鱼-香港电影,http://epg.112114.xyz/douyu/122402
-斗鱼-国产喜剧,http://epg.112114.xyz/douyu/9292492
-斗鱼-冰冰小剧场,http://epg.112114.xyz/douyu/74374
+香港电影,http://epg.112114.xyz/douyu/122402
+国产喜剧,http://epg.112114.xyz/douyu/9292492
+冰冰小剧场,http://epg.112114.xyz/douyu/74374
 
-斗鱼-特辑电影,http://epg.112114.xyz/douyu/3637778
+特辑电影,http://epg.112114.xyz/douyu/3637778
 
-斗鱼-哈利波特,http://epg.112114.xyz/douyu/8814650
-斗鱼-权力的游戏,http://epg.112114.xyz/douyu/8945323
+哈利波特,http://epg.112114.xyz/douyu/8814650
+权力的游戏,http://epg.112114.xyz/douyu/8945323
 
-斗鱼-漫威电影,http://epg.112114.xyz/douyu/6140589
-
-
-斗鱼-X战警,http://epg.112114.xyz/douyu/9651304
+漫威电影,http://epg.112114.xyz/douyu/6140589
+X战警,http://epg.112114.xyz/douyu/9651304
 
 
 
